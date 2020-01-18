@@ -9,7 +9,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.HttpHeaders;
 import javax.ws.rs.core.MediaType;
-
+	
 import org.itstep.facade.ClienteFacade;
 import org.itstep.model.Cliente;
 
